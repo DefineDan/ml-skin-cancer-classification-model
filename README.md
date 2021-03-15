@@ -14,7 +14,7 @@ The precision of the model at this point is around 85%.
 
 ### Things to improve
 
-The classes of dataset is very imbalanced. Since some images represent the same lesion, one could be smarter about deleting certain images in the process of balancing. The same holds true for data augmentation.
+The classes of dataset were very imbalanced. Since some images represent the same lesion, one could be smarter about deleting certain images in the process of balancing. The same holds true for data augmentation.
 
 The model is not perfectly accurate yet and therefor needs more time in hyperparameter tuning.
 
