@@ -18,3 +18,7 @@ The classes of dataset were very imbalanced. Since some images represent the sam
 
 The model is not perfectly accurate yet and therefor needs more time in hyperparameter tuning.
 
+### Mobile App
+
+In addition, I built a minimalistic mobile app with flutter which uses the tf_lite model. 
+(see https://github.com/DefineDan/ml-skin-cancer-classification-app)
